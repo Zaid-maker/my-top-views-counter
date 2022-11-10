@@ -4,6 +4,8 @@
   "language": "en-US",
   "repository": [
     "js-quiz-cli",
-    "status-page"
+    "status-page",
+    "web3-nft-game",
+    "uniswap-clone-2.0"
   ]
 }
