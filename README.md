@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/11/7 5:00 PM UTC
+			2022/11/8 5:00 PM UTC
 		</td>
 		<td>
 			3
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/11/7 12:00 AM UTC
+			2022/11/8 5:00 PM UTC
 		</td>
 		<td>
 			8
@@ -51,9 +51,41 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/505392985/small/year.png" height="20"> 46
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/558985725/year.md">
+				web3-nft-game
+			</a>
+		</td>
+		<td>
+			2022/11/7 12:00 AM UTC
+		</td>
+		<td>
+			14
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/558985725/small/year.png" height="20"> 225
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/552040013/year.md">
+				uniswap-clone-2.0
+			</a>
+		</td>
+		<td>
+			2022/11/7 5:04 PM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/552040013/small/year.png" height="20"> 23
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/11/10 5:00 PM UTC</i></small>
+<small><i>Last updated on 2022/11/10 5:05 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

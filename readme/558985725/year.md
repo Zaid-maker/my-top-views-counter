@@ -1,7 +1,7 @@
 ## [🔙 my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
 
-### :octocat: [js-quiz-cli](https://github.com/Zaid-maker/js-quiz-cli)
-![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/533320451/large/year.png)
+### :octocat: [web3-nft-game](https://github.com/Zaid-maker/web3-nft-game)
+![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/558985725/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>9</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>127</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>5</code>
 		</td>
 		<td>
-			<code>21</code>
+			<code>98</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/533320451/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/533320451/week.md)
+[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/558985725/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/week.md)
 ```readme
-[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/533320451/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/533320451/week.md)
+[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/558985725/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/week.md)
 ```
 ### Header
-# js-quiz-cli [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/533320451/small/year.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/533320451/year.md)
+# web3-nft-game [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/558985725/small/year.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/year.md)
 ```readme
-# js-quiz-cli [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/533320451/small/year.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/533320451/year.md)
+# web3-nft-game [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/558985725/small/year.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
