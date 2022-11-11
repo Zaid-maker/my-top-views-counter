@@ -1,7 +1,7 @@
 ## [🔙 my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
 
-### :octocat: [uniswap-clone-2.0](https://github.com/Zaid-maker/uniswap-clone-2.0)
-![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/552040013/large/year.png)
+### :octocat: [JokeBot-2](https://github.com/Zaid-maker/JokeBot-2)
+![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/469729454/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>24</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/552040013/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/552040013/week.md)
+[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/469729454/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/469729454/week.md)
 ```readme
-[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/552040013/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/552040013/week.md)
+[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/469729454/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/469729454/week.md)
 ```
 ### Header
-# uniswap-clone-2.0 [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/552040013/small/year.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/552040013/year.md)
+# JokeBot-2 [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/469729454/small/year.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/469729454/year.md)
 ```readme
-# uniswap-clone-2.0 [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/552040013/small/year.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/552040013/year.md)
+# JokeBot-2 [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/469729454/small/year.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/469729454/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

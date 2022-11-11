@@ -83,9 +83,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/552040013/small/year.png" height="20"> 23
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/469729454/year.md">
+				JokeBot-2
+			</a>
+		</td>
+		<td>
+			2022/11/8 9:25 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/469729454/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/11/11 8:57 AM UTC</i></small>
+<small><i>Last updated on 2022/11/11 9:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
