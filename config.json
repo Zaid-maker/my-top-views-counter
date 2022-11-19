@@ -5,6 +5,7 @@
   "repository": [
     "js-quiz-cli",
     "status-page",
+    "status-page-advanced",
     "web3-nft-game",
     "uniswap-clone-2.0",
     "modern-web-ui"
