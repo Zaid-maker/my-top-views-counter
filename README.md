@@ -53,6 +53,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/566474659/year.md">
+				status-page-advanced
+			</a>
+		</td>
+		<td>
+			2022/11/16 12:00 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/566474659/small/year.png" height="20"> 149
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/558985725/year.md">
 				web3-nft-game
 			</a>
@@ -101,7 +117,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/11/19 5:53 PM UTC</i></small>
+<small><i>Last updated on 2022/11/19 6:27 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
