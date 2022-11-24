@@ -2,7 +2,7 @@ name: GitHub Profile Views Counter CI
 
 on:
   schedule:
-    - cron: "0,15,30,45 * * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   release:
