@@ -21,44 +21,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/533320451/year.md">
-				js-quiz-cli
-			</a>
-		</td>
-		<td>
-			2023/4/22 1:02 AM UTC
-		</td>
-		<td>
-			17
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/533320451/small/year.png" height="20"> 118
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/505392985/year.md">
-				status-page
-			</a>
-		</td>
-		<td>
-			2023/4/22 12:00 AM UTC
-		</td>
-		<td>
-			116
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/505392985/small/year.png" height="20"> 446
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/566474659/year.md">
 				status-page-advanced
 			</a>
 		</td>
 		<td>
-			2023/4/22 12:00 AM UTC
+			2023/4/23 1:08 AM UTC
 		</td>
 		<td>
 			90
@@ -74,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/4/22 1:02 AM UTC
+			2023/4/23 1:08 AM UTC
 		</td>
 		<td>
 			54
@@ -90,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/4/22 1:02 AM UTC
+			2023/4/23 1:08 AM UTC
 		</td>
 		<td>
 			19
@@ -99,25 +67,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/552040013/small/year.png" height="20"> 62
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/562526745/year.md">
-				modern-web-ui
-			</a>
-		</td>
-		<td>
-			2023/4/22 12:00 AM UTC
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/562526745/small/year.png" height="20"> 74
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2023/4/24 6:15 PM UTC</i></small>
+<small><i>Last updated on 2023/4/25 1:09 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
