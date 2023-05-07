@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/4 12:00 AM UTC
+			2023/5/5 12:00 AM UTC
 		</td>
 		<td>
-			19
+			20
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/533320451/small/year.png" height="20"> 180
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/533320451/small/year.png" height="20"> 181
 		</td>
 	</tr>
 	<tr>
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/4 12:00 AM UTC
+			2023/5/5 12:00 AM UTC
 		</td>
 		<td>
-			125
+			127
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/505392985/small/year.png" height="20"> 480
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/505392985/small/year.png" height="20"> 490
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/4 12:00 AM UTC
+			2023/5/5 12:00 AM UTC
 		</td>
 		<td>
-			94
+			95
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/566474659/small/year.png" height="20"> 1093
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/566474659/small/year.png" height="20"> 1119
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/4 1:01 AM UTC
+			2023/5/5 12:57 AM UTC
 		</td>
 		<td>
 			54
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/4 1:01 AM UTC
+			2023/5/5 12:00 AM UTC
 		</td>
 		<td>
-			19
+			20
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/552040013/small/year.png" height="20"> 62
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/552040013/small/year.png" height="20"> 74
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2023/5/4 1:01 AM UTC
+			2023/5/5 12:57 AM UTC
 		</td>
 		<td>
 			14
@@ -117,7 +117,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/5/6 6:14 PM UTC</i></small>
+<small><i>Last updated on 2023/5/7 1:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
