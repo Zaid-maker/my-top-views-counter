@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/533320451/year.md">
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/533320451/week.md">
 				js-quiz-cli
 			</a>
 		</td>
@@ -32,12 +32,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			39
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/533320451/small/year.png" height="20"> 323
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/533320451/small/week.png" height="20"> 323
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/505392985/year.md">
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/505392985/week.md">
 				status-page
 			</a>
 		</td>
@@ -48,12 +48,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			315
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/505392985/small/year.png" height="20"> 1811
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/505392985/small/week.png" height="20"> 1811
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/566474659/year.md">
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/566474659/week.md">
 				status-page-advanced
 			</a>
 		</td>
@@ -64,12 +64,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			185
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/566474659/small/year.png" height="20"> 1841
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/566474659/small/week.png" height="20"> 1841
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/558985725/year.md">
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/558985725/week.md">
 				web3-nft-game
 			</a>
 		</td>
@@ -80,12 +80,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			64
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/558985725/small/year.png" height="20"> 376
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/558985725/small/week.png" height="20"> 376
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/552040013/year.md">
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/552040013/week.md">
 				uniswap-clone-2.0
 			</a>
 		</td>
@@ -96,12 +96,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			23
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/552040013/small/year.png" height="20"> 77
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/552040013/small/week.png" height="20"> 77
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/562526745/year.md">
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/562526745/week.md">
 				modern-web-ui
 			</a>
 		</td>
@@ -112,12 +112,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			19
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/562526745/small/year.png" height="20"> 85
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/562526745/small/week.png" height="20"> 85
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/687981505/year.md">
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/687981505/week.md">
 				discord-clone
 			</a>
 		</td>
@@ -128,12 +128,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			76
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/687981505/small/year.png" height="20"> 1443
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/687981505/small/week.png" height="20"> 1443
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/679736750/year.md">
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/679736750/week.md">
 				threads-clone
 			</a>
 		</td>
@@ -144,12 +144,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			26
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/679736750/small/year.png" height="20"> 92
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/679736750/small/week.png" height="20"> 92
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/12/6 6:16 PM UTC</i></small>
+<small><i>Last updated on 2023/12/6 8:50 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

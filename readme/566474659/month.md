@@ -2,11 +2,11 @@
 | [**Week →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/week.md) | [**Month →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/month.md) | [**Year →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/566474659/large/year.png)
+![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/566474659/large/month.png)
 
 <details>
 	<summary>Click to expand table</summary>
-	<h2>:calendar: Year Page Views Table</h2>
+	<h2>:calendar: Month Page Views Table</h2>
 <table>
 	<tr>
 		<th>
@@ -21,145 +21,343 @@
 	</tr>
 	<tr>
 		<td>
-			<code>2023/12/1</code>
+			<code>2023/12/6</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/12/5</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/12/4</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>11</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/12/3</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>5</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/12/2</code>
+		</td>
+		<td>
+			<code>1</code>
 		</td>
 		<td>
 			<code>4</code>
 		</td>
+	</tr>
+	<tr>
 		<td>
-			<code>24</code>
+			<code>2023/12/1</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>4</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/11/1</code>
+			<code>2023/11/30</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>51</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/10/1</code>
-		</td>
-		<td>
-			<code>12</code>
-		</td>
-		<td>
-			<code>77</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/9/1</code>
+			<code>2023/11/29</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>35</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/8/1</code>
-		</td>
-		<td>
-			<code>11</code>
-		</td>
-		<td>
-			<code>99</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/7/1</code>
+			<code>2023/11/28</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>56</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/6/1</code>
-		</td>
-		<td>
-			<code>18</code>
-		</td>
-		<td>
-			<code>198</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/5/1</code>
+			<code>2023/11/27</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>58</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/4/1</code>
-		</td>
-		<td>
-			<code>19</code>
-		</td>
-		<td>
-			<code>158</code>
+			<code>5</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/3/1</code>
+			<code>2023/11/26</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>160</code>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<code>2023/2/1</code>
-		</td>
-		<td>
-			<code>10</code>
-		</td>
-		<td>
-			<code>36</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2023/1/1</code>
+			<code>2023/11/25</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>115</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<code>2022/12/1</code>
+			<code>2023/11/24</code>
 		</td>
 		<td>
-			<code>17</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>170</code>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/23</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/22</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/21</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/20</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/19</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/18</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/17</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>2</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/16</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/15</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/14</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/13</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/12</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/11</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/10</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/9</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/8</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/7</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2023/11/6</code>
+		</td>
+		<td>
+			<code>1</code>
+		</td>
+		<td>
+			<code>1</code>
 		</td>
 	</tr>
 </table>
