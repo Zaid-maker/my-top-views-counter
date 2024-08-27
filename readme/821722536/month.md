@@ -1,8 +1,8 @@
 ## [🔙 my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
-| [**Week →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/week.md) | [**Month →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/month.md) | [**Year →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/year.md) |
+| [**Week →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md) | [**Month →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/month.md) | [**Year →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [status-page-advanced](https://github.com/Zaid-maker/status-page-advanced)
-![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/566474659/large/month.png)
+### :octocat: [evently](https://github.com/Zaid-maker/evently)
+![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/821722536/large/month.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -24,10 +24,10 @@
 			<code>2024/8/27</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +35,10 @@
 			<code>2024/8/26</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -68,10 +68,10 @@
 			<code>2024/8/23</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -90,10 +90,10 @@
 			<code>2024/8/21</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -145,10 +145,10 @@
 			<code>2024/8/16</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -167,10 +167,10 @@
 			<code>2024/8/14</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>9</code>
 		</td>
 	</tr>
 	<tr>
@@ -211,10 +211,10 @@
 			<code>2024/8/10</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -244,10 +244,10 @@
 			<code>2024/8/7</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -354,10 +354,10 @@
 			<code>2024/7/28</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
@@ -367,14 +367,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/566474659/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/week.md)
+[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/821722536/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md)
 ```readme
-[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/566474659/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/week.md)
+[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/821722536/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md)
 ```
 ### Header
-# status-page-advanced [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/566474659/small/week.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/week.md)
+# evently [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/821722536/small/week.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md)
 ```readme
-# status-page-advanced [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/566474659/small/week.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/566474659/week.md)
+# evently [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/821722536/small/week.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -147,9 +147,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/679736750/small/week.png" height="20"> 122
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Zaid-maker/my-top-views-counter/tree/master/readme/821722536/week.md">
+				evently
+			</a>
+		</td>
+		<td>
+			2024/8/24 12:28 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Zaid-maker/my-top-views-counter/raw/master/graph/821722536/small/week.png" height="20"> 9
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/8/27 6:20 AM UTC</i></small>
+<small><i>Last updated on 2024/8/27 12:28 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

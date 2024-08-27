@@ -1,8 +1,8 @@
 ## [🔙 my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter)
-| [**Week →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/week.md) | [**Month →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/month.md) | [**Year →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/year.md) |
+| [**Week →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md) | [**Month →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/month.md) | [**Year →**](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [web3-nft-game](https://github.com/Zaid-maker/web3-nft-game)
-![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/558985725/large/year.png)
+### :octocat: [evently](https://github.com/Zaid-maker/evently)
+![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/821722536/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -24,10 +24,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>9</code>
 		</td>
 	</tr>
 	<tr>
@@ -35,10 +35,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -57,10 +57,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -68,10 +68,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>17</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -79,10 +79,10 @@
 			<code>2024/3/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -101,10 +101,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -112,10 +112,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -123,10 +123,10 @@
 			<code>2023/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -134,10 +134,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>14</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -145,10 +145,10 @@
 			<code>2023/9/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -156,10 +156,10 @@
 			<code>2023/8/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
@@ -169,14 +169,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/558985725/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/week.md)
+[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/821722536/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md)
 ```readme
-[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/558985725/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/week.md)
+[![Image of my-top-views-counter](https://github.com/Zaid-maker/my-top-views-counter/blob/master/svg/821722536/badge.svg)](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md)
 ```
 ### Header
-# web3-nft-game [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/558985725/small/week.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/week.md)
+# evently [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/821722536/small/week.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md)
 ```readme
-# web3-nft-game [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/558985725/small/week.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/558985725/week.md)
+# evently [<img alt="Image of my-top-views-counter" src="https://github.com/Zaid-maker/my-top-views-counter/blob/master/graph/821722536/small/week.png" height="20">](https://github.com/Zaid-maker/my-top-views-counter/blob/master/readme/821722536/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
